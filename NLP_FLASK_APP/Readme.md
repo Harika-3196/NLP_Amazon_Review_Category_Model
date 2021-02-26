@@ -16,6 +16,7 @@ https://drive.google.com/drive/folders/1O3UhTS-iiI5No7B2dC0zMtbhYwXKAoQU?usp=sha
 2) put this folder inside your cloned repository(NLP_Amazon_Review_Category_Model)
 3) Now everything is set
 4) To run the flask application
-5) Run python model_app.py and give the input and submit to get return results
+5) Run python model_app.py 
+6) Open the link provided by the flask in terminal give the input and submit to get return results in the website link (chrome or firefox or explorer)
 
 **Model is built using bidirectional lstm which is trained  for 5 epochs as there are resource constraints**
