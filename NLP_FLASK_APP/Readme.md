@@ -2,7 +2,10 @@
 
 
 git clone https://github.com/Harika-3196/NLP_Amazon_Review_Category_Model.git
+
+
 pip install pipreqs
+
 pip install -r requirements.txt
 
 
